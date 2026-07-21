@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CodeQuest.API/CodeQuest.API.csproj" />
+  <Project Path="CodeQuest.Communication/CodeQuest.Communication.csproj" />
 </Solution>
